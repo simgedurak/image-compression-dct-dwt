@@ -1,0 +1,9 @@
+numpy
+scipy
+pywavelets
+scikit-image
+opencv-python>=4.0,<5.0
+fastapi
+uvicorn
+pydantic
+pytest
